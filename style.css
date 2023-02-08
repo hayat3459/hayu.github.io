@@ -1,0 +1,20 @@
+body {
+    background: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+    background-repeat : no-repeat;
+    background-size:cover;
+}
+    h1{
+        color: darkorange;
+    }
+    h2{
+        color: darkorange;
+    }
+    p{
+        color: darkorange;
+        font-size: larger;
+    }
+    a{
+        color: darkgoldenrod;
+        font-size: larger;
+        font-style: italic;
+    }
